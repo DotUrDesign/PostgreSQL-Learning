@@ -1,3 +1,5 @@
+-- to start postgreSQL => psql -U postgres
+
 CREATE DATABASE todo_database;
 
 -- \c todo_database   -> to connnect to the database 
